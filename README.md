@@ -11,7 +11,7 @@ In your app, users will be able to answer questions, see which questions they ha
 * The only options to install the `Would You Rather` React-redux web site is by cloning from the git hub please follow the instructions below (I assume you have install the git program and node package manager).
 
     1. From the GitBash/Window Terminal, type in the command:
-        *   `git clone https://github.com/singlun/reactnd-project-would-you-rather-starter.git'
+        *   `git clone https://github.com/singluntang/Would-You-Rather-WebSite.git'
     2. After clone, you need to install the packages and dependencies. Type in the following command.
         *   `npm install'
     3.  Now you can run the MyReads App by typing in:
